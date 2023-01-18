@@ -1,5 +1,5 @@
 # NYCTreesCSV
-> This Java program takes user input to compare birth dates of two given individuals. The main class is the Birthdays class; this class accepts user input for the names and birth dates of both individuals and compares the dates. 
+> This Java program takes user input and prints the associated tree species and popularity in each NYC borough. The main class is the NYCStreetTrees class; this class accepts user input for the tree species. 
 
 ## Table of Contents
 * [General Info](#general-information)
